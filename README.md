@@ -1,4 +1,4 @@
-# Array-Agnostic Ambisonics Encoding via Diffusion Posterior Sampling (ADEPS)
+# Ambisonics Encoding via Diffusion Posterior Samplin
 
 Official implementation of the paper:  
 **[Array-Agnostic Ambisonics Encoding via Diffusion Posterior Sampling](https://arxiv.org/abs/2608.24558)**  
