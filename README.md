@@ -23,6 +23,7 @@ School of Electrical and Computer Engineering, Ben-Gurion University of the Nege
 
 If you find this work useful in your research, please consider citing:
 
+```
 @article{milstein2026adeps,
   title   = {Array-Agnostic Ambisonics Encoding via Diffusion Posterior Sampling},
   author  = {Milstein, Amit and Shlezinger, Nir and Rafaely, Boaz},
